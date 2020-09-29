@@ -1,0 +1,2 @@
+# Skillfuck
+The learning curve
